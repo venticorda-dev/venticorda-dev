@@ -4,15 +4,18 @@
 </div>
 
 <!-- Заголовок с анимацией -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=5D8AA8&width=435&lines=Привет,+я+Venticorda+(Даниил);Код+должен+дышать;Свобода+в+каждой+строчке" alt="Тайпинг">
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.vercel.app/?font=JetBrains+Mono&pause=1000&color=5D8AA8&width=435&lines=Привет,+я+venticorda+(Даниил);Код+должен+дышать;Свобода+в+каждой+строчке" alt="Тайпинг" style="display: block; margin: 0 auto;">
+</div>
+
+---
 
 <!-- Статистика -->
+### 🎮 Активность
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venticorda-dev&show_icons=true&theme=panda&hide_border=true&border_radius=50">
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=venticorda-dev&theme=dark&hide_border=true&border_radius=5&locale=ru&short_numbers=true&theme=panda&border_radius=50" alt="GitHub Streak" /></a>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=venticorda-dev&show_icons=true&theme=panda&hide_border=true&locale=ru&border_radius=50">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venticorda-dev&theme=panda&hide_border=true&locale=ru&border_radius=50">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venticorda-dev&theme=react-dark&hide_border=true&area=true">
 </div>
 
 ---
@@ -24,13 +27,31 @@ principles:
   - "Минимализм > Сложность"
   - "Тесты — как прогноз погоды: предотвращают шторм"
 ```
+---
 
 ### 🌪️ Технологии
 <p align="center"> <img src="https://skillicons.dev/icons?i=docker,django,fastapi,nginx,sqlite,py,linux,mysql,postgres,github,bash,flask,githubactions,postman,git&theme=dark&perline=5"> </p>
 
+---
+
 ### 🚀 Проекты
-<div align="center"> <a href="https://github.com/venticorda-dev/проект"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=venticorda&проект&theme=algolia"> </a>
-<a href="https://github.com/venticorda/portfolio-template"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=venticorda&repo=portfolio-template&theme=algolia"> </a> </div>  <!-- далее дубли + указать сами проекты выше -->
+<div align="center">
+  <a href="https://github.com/venticorda-dev/snake-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=venticorda-dev&repo=snake-game&theme=panda&show_owner=true">
+  </a>
+  <a href="https://github.com/venticorda-dev/portfolio-template">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=venticorda-dev&repo=portfolio-template&theme=panda&show_owner=true">
+  </a>
+</div>  <!-- далее дубли + указать сами проекты выше -->
+
+---
 
 ### 📬 Контакты
-<p align="center"> <a href="https://t.me/venticorda"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram"> </a> <a href="mailto:dvarlashchenko@mail.ru"> <img src="https://img.shields.io/badge/Email-8B89CC?style=flat&logo=protonmail"> </a> </p><div align="center"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnl0Zm02bTJyaTRna2xqZnU1bHprYjR6Nzh2N3I1ZGI5aHlybG1lNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4vip84hg9BhdNidTR/giphy.gif" width="50%"> </div> 
+<p align="center"> 
+  <a href="https://t.me/venticorda"> 
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white"> 
+  </a> 
+  <a href="mailto:dvarlashchenko@mail.ru"> 
+    <img src="https://img.shields.io/badge/Email-005FF9?style=flat&logo=mail.ru&logoColor=white&label=Mail.ru"> 
+  </a> 
+</p>
