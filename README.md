@@ -37,11 +37,11 @@ principles:
 ### 🚀 Проекты
 <div align="center">
   <a href="https://github.com/venticorda/The-Charitable-Foundation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=venticorda&repo=The-Charitable-Foundation&theme=panda&show_owner=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=venticorda&repo=The-Charitable-Foundation&theme=panda&show_owner=true&cache_bust=1">
   </a>
   <!-- Добавьте другие проекты по аналогии -->
   <a href="https://github.com/venticorda/another-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=venticorda&repo=another-repo&theme=panda&show_owner=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=venticorda&repo=another-repo&theme=panda&show_owner=true&cache_bust=1">
   </a>
 </div>
 
