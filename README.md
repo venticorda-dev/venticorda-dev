@@ -36,8 +36,8 @@ principles:
 
 ### 🚀 Проекты
 <div align="center">
-  <a href="https://github.com/venticorda-dev/snake-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=venticorda-dev&repo=snake-game&theme=panda&show_owner=true">
+  <a href="https://github.com/venticorda/The-Charitable-Foundation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=venticorda&repo=The-Charitable-Foundation&theme=panda&show_owner=true">
   </a>
   <a href="https://github.com/venticorda-dev/portfolio-template">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=venticorda-dev&repo=portfolio-template&theme=panda&show_owner=true">
