@@ -39,8 +39,8 @@ principles:
   <a href="https://github.com/venticorda/The-Charitable-Foundation">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=venticorda&repo=The-Charitable-Foundation&theme=panda&show_owner=true">
   </a>
-  <a href="https://github.com/venticorda-dev/portfolio-template">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=venticorda&repo=portfolio-template&theme=panda&show_owner=true">
+  <a href="https://github.com/venticorda-dev/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=venticorda&repo=&theme=panda&show_owner=true">
   </a>
 </div>  <!-- далее дубли + указать сами проекты выше -->
 
