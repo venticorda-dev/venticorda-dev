@@ -13,9 +13,9 @@
 <!-- Статистика -->
 ### 🎮 Активность
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venticorda-dev&show_icons=true&theme=panda&hide_border=true&locale=ru&border_radius=50">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venticorda-dev&theme=panda&hide_border=true&locale=ru&border_radius=50">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venticorda-dev&theme=react-dark&hide_border=true&area=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=venticorda&show_icons=true&theme=panda&hide_border=true&locale=ru&border_radius=50">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venticorda&theme=panda&hide_border=true&locale=ru&border_radius=50">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venticorda&theme=react-dark&hide_border=true&area=true">
 </div>
 
 ---
@@ -40,7 +40,7 @@ principles:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=venticorda&repo=The-Charitable-Foundation&theme=panda&show_owner=true">
   </a>
   <a href="https://github.com/venticorda-dev/portfolio-template">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=venticorda-dev&repo=portfolio-template&theme=panda&show_owner=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=venticorda&repo=portfolio-template&theme=panda&show_owner=true">
   </a>
 </div>  <!-- далее дубли + указать сами проекты выше -->
 
