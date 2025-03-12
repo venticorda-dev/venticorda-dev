@@ -34,7 +34,7 @@ principles:
 
 ---
 
-### 🚀 Проекты
+### 🚀 Проекты (скоро upd.)
 <div align="center">
   <a href="https://github.com/venticorda/The-Charitable-Foundation">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=venticorda&repo=The-Charitable-Foundation&theme=panda&show_owner=true&cache_bust=1">
