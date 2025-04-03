@@ -44,6 +44,11 @@ principles:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=venticorda&repo=cattygram&theme=panda&show_owner=true&cache_bust=1">
   </a>
 </div>
+  <!-- Добавьте другие проекты по аналогии -->
+  <a href="https://github.com/venticorda/LinkSnap">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=venticorda&repo=LinkSnap&theme=panda&show_owner=true&cache_bust=1">
+  </a>
+</div>
 
 ---
 
