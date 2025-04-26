@@ -54,6 +54,7 @@ principles:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=venticorda&repo=ScrapyPEPper&theme=panda&show_owner=true&cache_bust=1">
   </a>
 </div> 
+
 ---
 
 ### 📬 Контакты
